@@ -13,7 +13,7 @@ def driver(request):
         driver = webdriver.Chrome()
     elif request.param == "firefox":
         driver = webdriver.Firefox()
-    driver.get('http://localhost/opencart/upload/index.php?route=information/contact&language=en-gb')
+    driver.get('http://localhost/Assignment2/index.php?route=information/contact&language=en-gb')
     yield driver
     driver.quit()
 
@@ -85,10 +85,10 @@ def test_form_submission_long_enquiry(driver):
     name = WebDriverWait(driver, 10).until(
         EC.visibility_of_element_located((By.ID, 'input-name'))
     )
-    name.send_keys('John Doe')
+    name.send_keys('Nam Nguyen')
 
     email = driver.find_element(By.ID, 'input-email')
-    email.send_keys('john@example.com')
+    email.send_keys('nam@gmail.com')
 
     enquiry = driver.find_element(By.ID, 'input-enquiry')
     enquiry.send_keys('A' * 10001)  # Nội dung quá dài (hơn 3000 ký tự)
