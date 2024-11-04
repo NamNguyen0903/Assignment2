@@ -14,13 +14,13 @@ def driver(request):
         driver = webdriver.Firefox()
 
     # Mở trang web trước khi bắt đầu các bài kiểm tra
-    driver.get('http://localhost/opencart/upload/index.php?route=information/contact&language=en-gb')
+    driver.get('http://localhost/Assignment2/index.php?route=information/contact&language=en-gb')
     yield driver
     driver.quit()
 
 def reset_form(driver):
     """Hàm để reset lại form bằng cách làm mới trang."""
-    driver.get('http://localhost/opencart/upload/index.php?route=information/contact&language=en-gb')
+    driver.get('http://localhost/Assignment2/index.php?route=information/contact&language=en-gb')
 
 
 def test_name_field_numeric_input(driver):
