@@ -1,0 +1,1066 @@
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/macbook_1-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/iphone_1-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/apple_cinema_30-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/harley-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/dell-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/disney-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/cocacola-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/burgerking-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/canon-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/nfl-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/redbull-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/sony-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/starbucks-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:04:24 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/nintendo-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/macbook_1-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/iphone_1-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/apple_cinema_30-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/harley-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/dell-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/disney-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/cocacola-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/burgerking-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/canon-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/nfl-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/redbull-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/sony-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/starbucks-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:05:17 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/nintendo-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:05:40 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/profile-45x45.png): Failed to open stream: Permission denied
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/model/tool/image.php
+Line: 55
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): Permission denied
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 339
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/.DS_Store): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/config.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/index.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/catalog/attribute.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/catalog/attribute_group.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/catalog/category.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/catalog/download.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/catalog/filter.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/catalog/information.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/catalog/manufacturer.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/catalog/option.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/catalog/product.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/catalog/review.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/catalog/subscription_plan.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/cms/antispam.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/cms/article.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/cms/comment.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/cms/topic.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/common/authorize.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/common/column_left.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/common/dashboard.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/common/developer.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/common/filemanager.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/common/footer.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/common/forgotten.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/common/header.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/common/language.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/common/login.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/common/logout.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/common/pagination.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/common/security.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/customer/custom_field.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/customer/customer.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/customer/customer_approval.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/customer/customer_group.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/customer/gdpr.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/design/banner.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/design/layout.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/design/seo_url.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/design/theme.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/design/translation.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/error/exception.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/error/not_found.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/error/permission.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/event/currency.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/event/debug.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/event/language.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/event/statistics.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/analytics.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/captcha.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/currency.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/dashboard.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/feed.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/fraud.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/language.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/marketplace.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/module.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/other.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/payment.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/report.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/shipping.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/theme.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/extension/total.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/address_format.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/country.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/currency.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/geo_zone.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/language.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/length_class.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/location.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/order_status.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/return_action.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/return_reason.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/return_status.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/stock_status.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/subscription_status.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/tax_class.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/tax_rate.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/weight_class.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/localisation/zone.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/mail/affiliate.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/mail/authorize.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/mail/customer.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/mail/forgotten.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/mail/gdpr.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/mail/returns.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/mail/reward.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/mail/subscription.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/mail/transaction.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/mail/voucher.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/marketing/affiliate.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/marketing/contact.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/marketing/coupon.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/marketing/marketing.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/marketplace/api.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/marketplace/cron.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/marketplace/event.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/marketplace/extension.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/marketplace/installer.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/marketplace/marketplace.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/marketplace/promotion.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/marketplace/startup.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/report/online.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/report/report.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/report/statistics.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/sale/order.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/sale/returns.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/sale/subscription.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/sale/voucher.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/sale/voucher_theme.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/setting/setting.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/setting/store.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/startup/application.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/startup/authorize.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/startup/error.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/startup/event.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/startup/extension.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/startup/language.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/startup/login.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/startup/notification.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/startup/permission.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/startup/sass.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/startup/session.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/startup/setting.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/startup/startup.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/tool/backup.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/tool/log.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/tool/notification.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/tool/upgrade.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/tool/upload.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/user/api.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/user/profile.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/user/user.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/controller/user/user_permission.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/language/en-gb/default.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/language/en-gb/en-gb.png): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: mkdir(): No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 354
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/model/catalog/attribute.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/model/catalog/attribute_group.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/model/catalog/category.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/model/catalog/download.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/model/catalog/filter.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/model/catalog/information.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/model/catalog/manufacturer.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/model/catalog/option.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/model/catalog/product.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:08:43 - PHP Warning: copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin1/model/catalog/review.php): Failed to open stream: No such file or directory
+File: /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/admin/controller/common/security.php
+Line: 358
+
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/macbook_1-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/iphone_1-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/apple_cinema_30-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/harley-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/dell-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/disney-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/cocacola-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/burgerking-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/canon-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/nfl-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/redbull-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/sony-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/starbucks-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:15 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/nintendo-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:19 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/banners/iPhone6-1140x380.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:19 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/banners/MacBookAir-1140x380.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:19 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/macbook_1-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:19 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/iphone_1-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:19 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/apple_cinema_30-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:19 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  imagejpeg(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/canon_eos_5d_1-200x200.jpg): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/image.php on line 145
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/harley-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/dell-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/disney-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/cocacola-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/burgerking-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/canon-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/nfl-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/redbull-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/sony-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/starbucks-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): Permission denied in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  mkdir(): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 47
+2024-09-09 13:11:20 - PHP Warning:  copy(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/image/cache/catalog/demo/manufacturer/nintendo-130x100.png): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/catalog/model/tool/image.php on line 56
+2024-11-04 13:12:29 - Error: Deadlock found when trying to get lock; try restarting transaction<br/>Error No: 1213<br/>UPDATE `oc_cart` SET `session_id` = 'ab19bada10e5f7dc87af8c682d' WHERE `api_id` = '0' AND `customer_id` = '1': in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/db/mysqli.php on line 76
+2024-11-04 13:32:05 - PHP Warning:  unlink(/Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/storage/cache/cache.product.7fd14843802479946f921b1d4be162ee.1730730712): No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/opencart/upload/system/library/cache/file.php on line 70
