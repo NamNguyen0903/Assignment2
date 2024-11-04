@@ -12,7 +12,7 @@ def driver(request):
         driver = webdriver.Chrome()
     elif request.param == "firefox":
         driver = webdriver.Firefox()
-    driver.get('http://localhost/opencart/upload/index.php?route=common/home&language=en-gb')
+    driver.get('http://localhost/Assignment2/index.php?route=common/home&language=en-gb')
     yield driver
     driver.quit()
 
