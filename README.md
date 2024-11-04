@@ -1,7 +1,4 @@
-
-
-```markdown
-# Assignment2
+ Assignment2
 
 ## Giới thiệu
 Assignment2 là một dự án gồm các file và script để thiết lập và kiểm thử hệ thống với Opencart, bao gồm cả việc cấu hình cơ sở dữ liệu và chạy các bài test tự động. Dự án này được chia thành hai nhánh: `main` và `master`, với các nội dung và mục đích khác nhau.
