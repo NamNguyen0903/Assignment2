@@ -14,7 +14,7 @@ def driver(request):
     elif request.param == "firefox":
         driver = webdriver.Firefox()
     driver.implicitly_wait(10)  # Chờ ngầm định
-    driver.get('http://localhost/opencart/upload/index.php?route=account/login&language=en-gb')
+    driver.get('http://localhost/Assignment2/index.php?route=account/login&language=en-gb')
 
     WebDriverWait(driver, 20).until(
         EC.presence_of_element_located((By.ID, 'input-email'))
@@ -26,7 +26,7 @@ def driver(request):
 
 def reset_form(driver):
     """Hàm để reset lại form bằng cách làm mới trang."""
-    driver.get('http://localhost/opencart/upload/index.php?route=account/login&language=en-gb')
+    driver.get('http://localhost/Assignment2/index.php?route=account/login&language=en-gb')
     time.sleep(2)  # Thêm thời gian chờ để đảm bảo trang tải hoàn toàn
 
 
@@ -241,7 +241,7 @@ def test_logout_without_login(driver):
     """Kiểm tra chức năng đăng xuất khi người dùng chưa đăng nhập."""
 
     # Điều hướng trực tiếp đến URL của trang đăng xuất
-    driver.get('http://localhost/opencart/upload/index.php?route=account/logout')
+    driver.get('http://localhost/Assignment2/index.php?route=account/logout')
 
     try:
         # Điểm xác nhận: Kiểm tra xem người dùng có được chuyển hướng đến trang 'Account Logout' hoặc trang 'Login' không.
